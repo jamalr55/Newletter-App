@@ -1,0 +1,19 @@
+body {
+  color: #dadfe6;
+  background: linear-gradient(60deg, #42281b, #e68800) no-repeat center fixed;
+  background-size: cover;
+}
+
+img {
+  width: 10vw;
+}
+
+.btn {
+  background-color: #c9821a;
+  color: #dadfe6;
+}
+
+a {
+  background-color: #c9821a;
+  color: #dadfe6;
+}

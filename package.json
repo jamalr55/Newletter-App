@@ -1,20 +1,29 @@
 {
-  "name": "mailchimp_newsletter2",
-  "version": "1.0.0",
-  "description": "Simple newsletter app using Mailchimp",
-  "main": "app.js",
-  "scripts": {
-    "start": "node app",
-    "dev": "nodemon app"
-  },
-  "author": "Jamal Richardson",
-  "license": "MIT",
-  "dependencies": {
-    "body-parser": "^1.18.3",
-    "express": "^4.16.4",
-    "request": "^2.88.0"
-  },
-  "devDependencies": {
-    "nodemon": "^1.18.9"
-  }
+	"name": "mailchimp_newsletter2",
+	"version": "1.0.0",
+	"description": "Simple newsletter app using Mailchimp",
+	"main": "app.js",
+	"scripts": {
+		"start": "node app",
+		"dev": "nodemon app"
+	},
+	"author": "Jamal Richardson",
+	"license": "MIT",
+	"dependencies": {
+		"body-parser": "^1.18.3",
+		"express": "^4.16.4",
+		"request": "^2.88.0"
+	},
+	"devDependencies": {
+		"nodemon": "^1.18.9"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/jamalr55/Newletter-App.git"
+	},
+	"keywords": [],
+	"bugs": {
+		"url": "https://github.com/jamalr55/Newletter-App/issues"
+	},
+	"homepage": "https://github.com/jamalr55/Newletter-App#readme"
 }

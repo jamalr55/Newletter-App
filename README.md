@@ -14,8 +14,4 @@
 
 
 
-Jamal Richardson
-
-
-
-[TEN18 Designs](http://www.ten18designs.com)
+Jamal Richardson [TEN18 Designs](http://www.ten18designs.com)
